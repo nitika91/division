@@ -1,5 +1,11 @@
 package division
 
+/*
+# ============================
+# Author: Nitika Mishra
+# ============================
+*/
+
 import "errors"
 
 const (
