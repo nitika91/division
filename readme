@@ -1,0 +1,16 @@
+# ==================================================
+# this is an utility program for division.
+# To test the division utility function i have written unit test script.
+# Please add any new input/output data to check the utility validity.
+# I have mentioned sample cases in the array.
+
+# To run this program please do the following actionaries
+
+# mkdir divison
+
+# cp -r srcpath division_folder_path
+
+# go test -v
+
+# ==================================================
+
